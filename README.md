@@ -11,4 +11,6 @@ Das IDE gibt's hier: https://www.arduino.cc/en/Main/Software
 allerdings in einer weit neueren Version, derzeit 1.8.5
 Hier hilft nur probieren...
 
+Zentrale File (setup() und loop()) ist WeatherStationAndy.ino
+
 Have Fun!
